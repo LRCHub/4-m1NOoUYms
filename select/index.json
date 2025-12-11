@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "老夫婦",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-11T13:42:07.292704Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "老夫婦",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_老夫婦_星野源.txt"
+    }
+  ]
+}
